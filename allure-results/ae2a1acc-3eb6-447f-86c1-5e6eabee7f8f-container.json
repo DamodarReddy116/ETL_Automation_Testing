@@ -1,1 +1,0 @@
-{"uuid": "be55d7d2-dcb5-44f6-b768-f1daf7e1d8b4", "children": ["2d7d257f-cfe8-48f1-8d8d-0e3dcba2929a", "c35ed6d7-78ae-4739-a508-69513288acf7"], "befores": [{"name": "source_customer_df", "status": "passed", "start": 1790310858396, "stop": 1790310859445}], "afters": [{"name": "source_customer_df::<lambda>", "start": 1790310868122}], "start": 1790310858396, "stop": 1790310868122}

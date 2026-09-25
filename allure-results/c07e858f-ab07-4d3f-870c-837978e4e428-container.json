@@ -1,0 +1,1 @@
+{"uuid": "65263802-d999-40e9-86b5-fd28cc7da217", "children": ["9ff07983-d0f3-4d99-86e9-73e8ca05f5ab", "ee6948bb-0a42-4a5f-b3de-3b808b4cb2f8"], "befores": [{"name": "source_customer_df", "status": "passed", "start": 1790315444660, "stop": 1790315447245}], "afters": [{"name": "source_customer_df::<lambda>", "start": 1790315463109}], "start": 1790315444660, "stop": 1790315463109}
