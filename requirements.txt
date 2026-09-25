@@ -1,2 +1,4 @@
 databricks-sdk>=0.38.0
-databricks-connect
+pyspark>=3.5.0
+pytest>=8.0.0
+allure-pytest>=2.13.0
